@@ -1,2 +1,2 @@
-# Überblick
-Kleines Beispiel für eine Uhrzeit in einem Java Project. Grundlage ist die Zusammenarbeit zwischen Threads und dem PropertyChange Design-Pattern.
+# Overview
+Small example of a time in a Java Project. The basis is the cooperation between threads and the PropertyChange design pattern.
