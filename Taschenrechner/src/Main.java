@@ -16,7 +16,7 @@ public class Main {
 
 
 
-            System.out.println("Hallo, das ist der Taschenrechner von der DT ISP. Wir passen das Programm der Firmen mentalität an.");
+            System.out.println("Hallo, das ist der Taschenrechner von der XXX. Wir passen das Programm der Firmen mentalität an.");
             System.out.println("Folgende Optionen stehen zur auswahl: \n" +
                     "Adddieren: 1 \n" +
                     "Subtrahieren: 2 \n" +
